@@ -1,0 +1,13 @@
+{
+    "scopes": [
+        "user-read-private",
+        "user-read-email",
+        "playlist-read-private",
+        "user-library-modify"
+    ],
+    "redirect_uri": "http://localhost:8080/callback",
+    "client_id": "your_client_id",
+    "client_secret": "your_client_secret",
+    "show_dialog": true,
+    "response_type": "token"
+}
